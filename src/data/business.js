@@ -1,7 +1,7 @@
 export const business = {
   // Demo branding (replace with a real company name when selling)
-  name: "AJ 247 Plumbing & Heating Services LTD",
-  tagline: "24/7 Emergency Plumber & Heating Services in Birmingham",
+  name: "Proflow Heating Solutions Ltd",
+  tagline: "24/7 Plumbing & Heating Services in Birmingham",
   city: "Birmingham",
 
   // Demo numbers (replace with real)
@@ -9,7 +9,7 @@ export const business = {
   phoneTel: "15 15247233",
 
   // WhatsApp number WITHOUT +
-  whatsappNumber: "447823751590",
+  whatsappNumber: "447858893212",
 
   // Used for quick CTA buttons
   whatsappPrefill:
@@ -140,7 +140,7 @@ export const business = {
   ],
 
   mapEmbedUrl:
-    "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1850651.8580366257!2d-0.6401027193975516!3d52.12644229266581!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2c58a71857836121%3A0xda3fbce6ad7476ce!2sAJ%20247%20Plumbing%20%26%20Heating%20Services%20LTD!5e1!3m2!1sen!2seg!4v1767866654809!5m2!1sen!2seg",
+    "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d386378.75176800723!2d-2.417276!3d52.4319555!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa85838389c6a86c1%3A0xe6514e8977330930!2sProflow%20heating%20solutions%20ltd!5e1!3m2!1sen!2seg!4v1767867497635!5m2!1sen!2seg",
   trustBadges: [
     "✅ Fully insured",
     "✅ Local Birmingham",
@@ -150,6 +150,4 @@ export const business = {
 };
 
 {
-  /* <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1850651.8580366257!2d-0.6401027193975516!3d52.12644229266581!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2c58a71857836121%3A0xda3fbce6ad7476ce!2sAJ%20247%20Plumbing%20%26%20Heating%20Services%20LTD!5e1!3m2!1sen!2seg!4v1767866654809!5m2!1sen!2seg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */
 }
-// https://maps.app.goo.gl/PiC9QPEp9ZbECxm47
