@@ -1,7 +1,7 @@
 export const business = {
   // Demo branding (replace with a real company name when selling)
-  name: "Birmingham Plumbing Co.",
-  tagline: "24/7 Emergency Plumber in Birmingham",
+  name: "AJ 247 Plumbing & Heating Services LTD",
+  tagline: "24/7 Emergency Plumber & Heating Services in Birmingham",
   city: "Birmingham",
 
   // Demo numbers (replace with real)
@@ -9,7 +9,7 @@ export const business = {
   phoneTel: "15 15247233",
 
   // WhatsApp number WITHOUT +
-  whatsappNumber: "201515247233",
+  whatsappNumber: "447823751590",
 
   // Used for quick CTA buttons
   whatsappPrefill:
